@@ -22,7 +22,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kodeman274&&theme=tokyonight" alt="kodeman274" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodeman274&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodeman274&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
