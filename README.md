@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **hilmanh179k@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=kodeman274)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
