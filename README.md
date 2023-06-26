@@ -18,7 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kodeman274&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kodeman274" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kodeman274&show_icons=true&locale=en&theme=tokyonight" alt="kodeman274" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kodeman274&&theme=tokyonight" alt="kodeman274" /></p>
 
