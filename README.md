@@ -7,7 +7,7 @@
     </p><hr />
 <!-- <h3 align="center">A passionate frontend developer from Indonesia</h3>
  -->
-👨‍💻 All of my projects are available at <a href="https://kodeman274.github.io/hilman-webprofil.github.io/">Web Portfolio Hilman</a>
+👨‍💻 All of my projects are available at <a href="https://kodeman274.github.io/hilman-webprofil.github.io/" target="_blank">Web Portfolio Hilman</a>
 <hr>
 
  📫 How to reach me **hilmanh179k@gmail.com**
