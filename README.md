@@ -10,7 +10,16 @@
 👨‍💻 All of my projects are available at <a href="https://kodeman274.github.io/hilman-webprofil.github.io/" target="_blank" rel><u>Web Portofolio Hilman</u></a>
 <hr>
 
- 📫 How to reach me **hilmanh179k@gmail.com**
+ 📫 How to reach me 👇
+ <ul>
+     <li> <a href="mailto:hilmanh179k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</li>
+     <li><a href="https://api.whatsapp.com/send?phone=6285718010129&text=Halo%20saya%20ingin%20berdiskusi"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a></li>
+ </ul>
+ 
+
+ 
+
 
 
 <h3 align="left">Connect with me:</h3>
